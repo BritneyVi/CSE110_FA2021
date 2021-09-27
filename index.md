@@ -1,7 +1,7 @@
-####About Me
+#### About Me
 **Hello World**
 
-##The Professional
+## The Professional
 
 My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
@@ -19,7 +19,7 @@ My Favorite programming language:
     cout << "My favorite programming langauge is C++, but I am also slowly becoming more familiar with python." >> endl; 
 '''
 
-##The Personal
+## The Personal
 
 [Q&A](qna.md)
 
