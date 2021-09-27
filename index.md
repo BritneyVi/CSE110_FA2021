@@ -23,6 +23,7 @@ My Favorite programming language:
 
 My favorite quote: 
 >The older I get the more that I see
+
 >My parents aren't heroes, they're just like me
 
 When it comes to my personal life I have a couple of interests: 
@@ -40,8 +41,10 @@ Having a dog is like half of my personality, so here are some facts about my dog
 6. Bonus a picture: 
    ![](MJsrs.jpg)
 
-##Talk to Me!
+## Talk to Me!
 How to get into contact with me: 
 [Linkedin!](https://www.linkedin.com/in/britney-vi/)
+
 [Github!](https://github.com/BritneyVi)
+
 Email! : bvi@ucsd.edu
