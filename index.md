@@ -40,7 +40,7 @@ Having a dog is like half of my personality, so here are some facts about my dog
 4. She is 8 and a half pounds of pure fluff. 
 5. I tried to make an instagram for her and quickly lost motivation.
 6. Bonus a picture: 
-   !(MJsrs.jpg)
+   ![](MJsrs.jpg)
 
 ##Talk to Me!
 How to get into contact with me: 
