@@ -14,8 +14,6 @@ Here are a few of my professional goals for the next year:
 
 My Favorite programming language: 
 '''
-    #include <iostream>
-
     cout << "My favorite programming langauge is C++, but I am also slowly becoming more familiar with python." >> endl; 
 '''
 
