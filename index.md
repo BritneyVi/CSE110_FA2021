@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BritneyVi/CSE110_FA2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+####About Me
+**Hello World**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##The Professional
 
-### Markdown
+My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are a few of my professional goals for the next year: 
+- [] Get my Comptia Sec+ Certification
+- [] Get my Comptia A+ Certification 
+- [] Reach 50 connections on Linkedin
+- [] Get an internship or more research 
+- [] Graduate
 
-```markdown
-Syntax highlighted code block
+My Favorite programming language: 
+'''
+    #include <iostream>
 
-# Header 1
-## Header 2
-### Header 3
+    cout << "My favorite programming langauge is C++, but I am also slowly becoming more familiar with python." >> endl; 
+'''
 
-- Bulleted
-- List
+##The Personal
 
-1. Numbered
-2. List
+[Q&A](qna.md)
 
-**Bold** and _Italic_ and `Code` text
+My favorite quote: 
+>The older I get the more that I see
+>My parents aren't heroes, they're just like me
 
-[Link](url) and ![Image](src)
-```
+When it comes to my personal life I have a couple of interests: 
+- cooking
+- baking 
+- embroidering 
+- reading 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Having a dog is like half of my personality, so here are some facts about my dog: 
+1. Her name is MJ.
+2. She is five years old.
+3. She is a shih tzu.
+4. She is 8 and a half pounds of pure fluff. 
+5. I tried to make an instagram for her and quickly lost motivation.
+6. Bonus a picture: 
+   (MJsrs.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BritneyVi/CSE110_FA2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Talk to Me!
+How to get into contact with me: 
+[Linkedin!](https://www.linkedin.com/in/britney-vi/)
+[Github!](https://github.com/BritneyVi)
+Email! : bvi@ucsd.edu
