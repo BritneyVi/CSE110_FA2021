@@ -43,7 +43,7 @@ Having a dog is like half of my personality, so here are some facts about my dog
 6. Bonus a picture: 
    ![](MJsrs.jpg)
 
-## Talk to Me!
+## [Talk to Me!](https://github.com/BritneyVi/CSE110_FA2021/blob/gh-pages/index.md#talk-to-me)
 How to get into contact with me: 
 [Linkedin!](https://www.linkedin.com/in/britney-vi/)
 
