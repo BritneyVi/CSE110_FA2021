@@ -1,9 +1,14 @@
 # About Me
 **Hello World**
 
+TOC: 
+- [My Professional Life](https://britneyvi.github.io/CSE110_FA2021/#:~:text=Hello%20World-,The%20Professional,-My%20name%20is) 
+- [My Personal Life](https://britneyvi.github.io/CSE110_FA2021/#:~:text=with%20python.%22%20%3E%3E%20endl%3B-,The%20Personal,-Q%26A)
+- [How to Get In Contact with Me](https://britneyvi.github.io/CSE110_FA2021/#:~:text=Bonus%20a%20picture%3A-,Talk%20to%20Me!,-How%20to%20get)
+
 ## [The Professional](https://britneyvi.github.io/CSE110_FA2021/#:~:text=Hello%20World-,The%20Professional,-My%20name%20is)
 
-My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
+My name is **Britney Vi** and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
 Here are a few of my professional goals for the next year: 
 - [ ] Get my Comptia Sec+ Certification
