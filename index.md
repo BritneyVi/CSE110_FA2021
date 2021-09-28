@@ -1,7 +1,7 @@
 # About Me
 **Hello World**
 
-## The Professional
+## [The Professional](https://github.com/BritneyVi/CSE110_FA2021/blob/gh-pages/index.md#the-professional)
 
 My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
