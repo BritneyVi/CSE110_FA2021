@@ -19,7 +19,7 @@ My Favorite programming language:
     cout << "My favorite programming langauge is C++, but I am also slowly becoming more familiar with python." >> endl; 
 ```
 
-## The Personal
+## [The Personal](https://github.com/BritneyVi/CSE110_FA2021/blob/gh-pages/index.md#the-personal)
 
 [Q&A](qna.md)
 
