@@ -1,7 +1,7 @@
 # About Me
 **Hello World**
 
-## The Professional
+## [The Professional](https://britneyvi.github.io/CSE110_FA2021/#:~:text=Hello%20World-,The%20Professional,-My%20name%20is)
 
 My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
@@ -19,7 +19,7 @@ My Favorite programming language:
     cout << "My favorite programming langauge is C++, but I am also slowly becoming more familiar with python." >> endl; 
 ```
 
-## The Personal
+## [The Personal](https://britneyvi.github.io/CSE110_FA2021/#:~:text=with%20python.%22%20%3E%3E%20endl%3B-,The%20Personal,-Q%26A)
 
 [Q&A](qna.md)
 
@@ -43,7 +43,7 @@ Having a dog is like half of my personality, so here are some facts about my dog
 6. Bonus a picture: 
    ![](MJsrs.jpg)
 
-## Talk to Me!
+## [Talk to Me!](https://britneyvi.github.io/CSE110_FA2021/#:~:text=Bonus%20a%20picture%3A-,Talk%20to%20Me!,-How%20to%20get)
 How to get into contact with me: 
 [Linkedin!](https://www.linkedin.com/in/britney-vi/)
 
