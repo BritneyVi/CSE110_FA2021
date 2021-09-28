@@ -1,4 +1,5 @@
-#### About Me
+### About Me
+
 **Hello World**
 
 ## The Professional
@@ -6,11 +7,11 @@
 My name is Britney Vi and I am a 2nd year transfer at UCSD. My aspirations as a programmer are to apply my programming skills and knowledge to cybersecurity. 
 
 Here are a few of my professional goals for the next year: 
-- [] Get my Comptia Sec+ Certification
-- [] Get my Comptia A+ Certification 
-- [] Reach 50 connections on Linkedin
-- [] Get an internship or more research 
-- [] Graduate
+- [ ] Get my Comptia Sec+ Certification
+- [ ] Get my Comptia A+ Certification 
+- [ ] Reach 50 connections on Linkedin
+- [ ] Get an internship or more research 
+- [ ] Graduate
 
 My Favorite programming language: 
 ```
@@ -45,6 +46,7 @@ Having a dog is like half of my personality, so here are some facts about my dog
 
 ## Talk to Me!
 How to get into contact with me: 
+
 [Linkedin!](https://www.linkedin.com/in/britney-vi/)
 
 [Github!](https://github.com/BritneyVi)
