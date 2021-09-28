@@ -10,7 +10,7 @@ Here are a few of my professional goals for the next year:
 - [ ] Get my Comptia A+ Certification 
 - [ ] Reach 50 connections on Linkedin
 - [ ] Get an internship or more research 
-- [ ] Graduate
+- [ ] Graduate 
 
 My Favorite programming language: 
 ```
